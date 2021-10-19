@@ -1,3 +1,2 @@
 # Clock_Joystick_Control
-
-stm that used F303RE
+used stm32 F303RE
